@@ -1,0 +1,12 @@
+img.slide{
+    height: 550px;
+}
+@media screen and (max-width:600px) {
+    img.slide{
+        height:300px;
+    }
+    
+}
+.img-card{
+    height:300px;
+}
